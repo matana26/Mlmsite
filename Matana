@@ -1,0 +1,14 @@
+Красота и Здоровье body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f7f7f7; color: #333; } header, footer { background-color: #3a3a3a; color: white; padding: 20px; text-align: center; } nav { background-color: #d3d3d3; padding: 10px; text-align: center; } nav a { margin: 0 10px; color: #333; text-decoration: none; font-weight: bold; } .container { padding: 20px; } .section { margin-bottom: 40px; } .product { background-color: white; padding: 10px; margin: 10px 0; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); } Проект "Красота и Здоровье" 
+
+Обучение + Каталог + MLM возможности
+
+О нас Каталог Обучение Контакты 
+
+О проекте 
+
+Мы обучаем женщин зарабатывать в сфере красоты, здоровья и заботы о доме. Присоединяйся и узнай, как легко начать.
+
+<section id="catalog" class="section"> <h2>Каталог товаров</h2> <div class="product"> <h3>Парфюмы</h3> <p>Долговечные и стойкие ароматы на каждый день.</p> </div> <div class="product"> <h3>БАДы</h3> <p>Натуральные добавки для здоровья всей семьи.</p> </div> <div class="product"> <h3>Уход за кожей</h3> <p>Средства для лица, тела и волос.</p> </div> </section> <section id="training" class="section"> <h2>Обучение</h2> <p>Бесплатные вебинары, PDF-гайды и личное сопровождение для начала заработка.</p> </section> <section id="contact" class="section"> <h2>Связаться с нами</h2> <p>Напиши нам в <a href="https://t.me/твоя-ссылка">Telegram</a> или <a href="mailto:example@email.com">на почту</a>.</p> </section> 
+
+© 2025 Красота и Здоровье. Все права защищены.
+
